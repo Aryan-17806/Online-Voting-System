@@ -14,4 +14,4 @@ Integrated a **MySQL database** to manage users, candidates, and election result
 - **Architecture:** Modular, maintainable code following MVC pattern  
 
 ## GitHub
-[https://github.com/yourusername/OnlineVotingSystem](https://github.com/yourusername/OnlineVotingSystem)
+https://github.com/yourusername/OnlineVotingSystem](https://github.com/yourusername/OnlineVotingSystem)](https://github.com/Aryan-17806/Online-Voting-System.git
