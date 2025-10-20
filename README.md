@@ -1,4 +1,4 @@
-# Online Voting System | Java, JDBC, Object-Oriented Programming
+# Online Voting System | Java, JDBC, Object-Oriented Programming |
 
 ## Description
 Developed a secure and scalable **Online Voting System** using **Java** and **JDBC** for database connectivity. Applied **Object-Oriented Programming (OOP) principles** — Inheritance, Polymorphism, Encapsulation, and Abstraction — to design modular and reusable code. Enabled **voter registration, authentication, and vote casting** functionalities with role-based access control for voters and administrators.  
